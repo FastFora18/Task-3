@@ -8044,7 +8044,7 @@ switch (userInput329)
         }
     }
 }
-
+```
 <picture>
   <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/200.png">
 </picture>
